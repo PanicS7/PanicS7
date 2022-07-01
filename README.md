@@ -2,8 +2,6 @@
 
 <div>
   <p>I am a self-taught frontend developer, currently looking for work.</p>
-  <p>I also have some experience with: Python, SASS/SCSS, LESS, Three.js, Animate.css, jQuery</p>
-  <p>Currently learning Node.js</p>
 </div>
 
 # Technologies I worked with:
@@ -76,4 +74,8 @@
   </tr>
 </table>
 
+<div>
+ <p>I also have some experience with: Python, SASS/SCSS, LESS, Three.js, Animate.css, jQuery <br/>
+ Currently learning Node.js</p>
+</div>
 
