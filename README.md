@@ -76,6 +76,6 @@
 
 <div>
  <p>I also have some experience with: Python, SASS/SCSS, LESS, Three.js, Animate.css, jQuery <br/>
- Currently learning Node.js</p>
+ Currently learning Node.js, PHP and SQL</p>
 </div>
 
