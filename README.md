@@ -71,11 +71,20 @@
       />
       <br /><strong>Npm</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Sass.svg"
+        width="48"
+        height="48"
+        alt="Npm"
+      />
+      <br /><strong>SASS/SCSS</strong>
+    </td>
   </tr>
 </table>
 
 <div>
- <p>I also have some experience with: Python, SASS/SCSS, LESS, Three.js, Animate.css, jQuery <br/>
- Currently learning Node.js, PHP and SQL</p>
+ <p>I also have some experience with: Python, LESS, Three.js, Animate.css, jQuery, PHP and SQL <br/>
+ Currently learning Node.js</p>
 </div>
 
