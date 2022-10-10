@@ -84,7 +84,7 @@
 </table>
 
 <div>
- <p>I also have some experience with: Python, LESS, Three.js, Animate.css, jQuery, PHP and SQL <br/>
+ <p>I also have some experience with: Webpack, Python, LESS, Three.js, Animate.css, jQuery, PHP and SQL <br/>
  Currently learning Node.js</p>
 </div>
 
