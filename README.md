@@ -116,6 +116,6 @@
 
 <div>
  <p>I also have some experience with: Vue.js, Angular, Python, LESS, Three.js, Animate.css, jQuery, PHP and SQL <br/>
- Currently learning Node.js</p>
+ Currently learning mongoDB, express.js, node.js</p>
 </div>
 
